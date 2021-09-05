@@ -1,0 +1,104 @@
+@font-face {
+    font-family: MontserratBold;
+    src: url('font/Montserrat-Black.ttf');
+}
+
+@font-face {
+    font-family: MontserratLight;
+    src: url('font/Montserrat-Regular.ttf');
+}
+
+#divmenu{
+    width: 100%;
+    height: 100px;
+    }
+    
+#menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:#00A368;
+    list-style:none;
+    width: 100%;
+           
+}
+#logo{
+width: 50px;
+height: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+#menu ul li a {
+    padding: 20px 10px;
+    display: inline-block;
+    font-style: "Helvetica";
+    float:left;
+  
+   /* estilo do link */ 
+    background-color:#00A368;
+    color:white;
+    text-decoration: none;
+     display: inline;
+   
+}
+
+#lixeira{
+    padding-right: 2px;
+    width:40px;
+    height: 70px; 
+    float: right;
+    }
+
+
+    
+a{
+    text-decoration: none;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+}
+#menu ul li a:hover {
+    background-color:white;
+    color: #00A368;
+
+}
+
+
+.centro{
+    
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+
+
+
+
+}
+#processos{
+
+
+        font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+padding: 20px 10px;
+    display: inline-block;
+    font-style: "Helvetica";
+  
+   /* estilo do link */ 
+    background-color:#00A368;
+    color:white;
+    text-decoration: none;
+     display: inline;
+    float:left;
+
+}
+
+/*</a></li>*/

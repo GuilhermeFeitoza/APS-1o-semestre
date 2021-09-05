@@ -1,0 +1,21 @@
+#papel{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+}
+h1 ,h2{
+    font-family:  MontserratBold , Arial, Helvetica, sans-serif;
+    
+    
+    }
+p{
+        font-family: MontserratLight,Arial, Helvetica, sans-serif;
+        line-height: 30px;
+    
+}
+
+#papelimg1{
+padding-left: 60px;
+
+}

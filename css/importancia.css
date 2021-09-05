@@ -1,0 +1,23 @@
+
+@font-face {
+    font-family: MontserratBold;
+    src: url('font/Montserrat-Black.ttf');
+}
+
+@font-face {
+    font-family: MontserratLight;
+    src: url('font/Montserrat-Regular.ttf');
+}
+
+
+h1 ,h2{
+    font-family:  MontserratBold , Arial, Helvetica, sans-serif;
+    
+    
+    }
+
+p{
+    font-family: MontserratLight,Arial, Helvetica, sans-serif;
+    line-height: 30px;
+
+}
